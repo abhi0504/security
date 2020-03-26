@@ -1,5 +1,7 @@
 #Securit and Authentication
 
+Level 6 - Google OAuth 2.0 Authentication
+
 Cookies and Sessions
 
 Level 4 - Hashing and Salting with bcrypt
